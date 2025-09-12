@@ -17,7 +17,7 @@
            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
            <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
        </picture>
-   </a>&nbsp;&nbsp;&nbsp;
+   </a>
    </a>
    <br>
    <br>
@@ -32,9 +32,9 @@
 
 |                                  🗂️ Repositórios                                   | ❤ Contribuidores                                                                                    |
 | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------ |
-| 🍍 [Frontend](https://github.com/revanced/revanced-manager)           | [![Frontend]](https://github.com/revanced/revanced-manager/graphs/contributors)           |
-| 🍇 [Backend](https://github.com/revanced/revanced-cli)                   | [![Backend]](https://github.com/revanced/revanced-cli/graphs/contributors)                   |
-| 🌶️ [Database](https://github.com/revanced/revanced-patches)           | [![Database]](https://github.com/revanced/revanced-patches/graphs/contributors)           |
+| 🍍 [Frontend](https://github.com/Genio-Quiz/Frontend)           | [![Frontend]](https://github.com/Genio-Quiz/Frontend/graphs/contributors)           |
+| 🍇 [Backend](https://github.com/Genio-Quiz/Backend)                   | [![Backend]](https://github.com/Genio-Quiz/Backend/contributors)                   |
+| 🌶️ [Database](https://github.com/Genio-Quiz/Database)           | [![Database]](https://github.com/Genio-Quiz/Database/contributors)    
 
 ## 🛠️ Ferramentas
 
