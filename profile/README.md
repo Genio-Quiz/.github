@@ -4,6 +4,7 @@
       width="256px"
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Genio-Quiz/.github/main/profile/assets/sabicao-logo/sabicao-logo.png"
+      style="border-radius: 15%;"
     />
     <img 
       width="256px"
