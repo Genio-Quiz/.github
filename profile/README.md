@@ -1,15 +1,15 @@
 <p align="center">
   <picture>
     <source
-      width="256px"
+      width="128px"
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Genio-Quiz/.github/main/profile/assets/sabicao-logo/sabicao-logo.png"
     />
     <img 
-      width="256px"
+      width="128px"
       src="https://raw.githubusercontent.com/Genio-Quiz/.github/main/profile/assets/sabicao-logo/sabicao-logo.png"
-      <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
       style="border-radius: 15%;"
+      <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
     />
   </picture>
   <br>
