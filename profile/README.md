@@ -9,13 +9,13 @@
     <img 
       width="256px"
       src="https://raw.githubusercontent.com/Genio-Quiz/.github/main/profile/assets/sabicao-logo/sabicao-logo.png"
+      <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
     />
   </picture>
   <br>
    <a href="https://github.com/Genio-Quiz">
        <picture>
            <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
-           <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
    </a>
