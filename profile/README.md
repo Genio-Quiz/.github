@@ -21,7 +21,7 @@
    </a>
    <br>
    <br>
-   💛 Projeto de PW3 de 3° DS 2025
+   Projeto de PW3 de 3° DS 2025
 </p>
 
 ## 🧠 Contribuidores
@@ -30,7 +30,7 @@
 [Backend]: https://contrib.rocks/image?repo=Genio-Quiz/Backend&max=12
 [Database]: https://contrib.rocks/image?repo=Genio-Quiz/Database&max=12
 
-|                                  🗂️ Repositórios                                   | ❤ Contribuidores                                                                                    |
+|                                  🗂️ Repositórios                                   | 💛 Contribuidores                                                                                    |
 | :---------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------ |
 | 🍍 [Frontend](https://github.com/Genio-Quiz/Frontend)           | [![Frontend]](https://github.com/Genio-Quiz/Frontend/graphs/contributors)           |
 | 🍇 [Backend](https://github.com/Genio-Quiz/Backend)                   | [![Backend]](https://github.com/Genio-Quiz/Backend/contributors)                   |
